@@ -1,0 +1,23 @@
+{
+  "name": "reservation-system",
+  "version": "1.0.0",
+  "description": "Reservation-System is a full stack web application that provides time-based reservation system for all purposes.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryupark1321/Reservation-System.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryupark1321/Reservation-System/issues"
+  },
+  "homepage": "https://github.com/ryupark1321/Reservation-System#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.9"
+  }
+}
